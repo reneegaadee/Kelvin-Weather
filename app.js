@@ -7,6 +7,7 @@ let farenheit = celsius *(9/5) + 32;
 farenheit = Math.floor(farenheit);
 //farenheit is a decimal number
 console.log(`The temperature is ${farenheit} degrees Farenheit`);
+
 newton = celsius *(33/100);
 newton = Math.floor(newton);
 console.log(`${celsius} celsius are ${newton} newtons.`);
